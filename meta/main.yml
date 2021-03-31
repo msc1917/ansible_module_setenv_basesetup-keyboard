@@ -1,4 +1,5 @@
 ---
+allow_duplicates: false
 dependencies:
   - role: setenv_apt-proxy
   - role: setenv_default-software
